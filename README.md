@@ -2,7 +2,7 @@
 
 Neyman Construction (best parameter & uncertainty numerical determination).
 
-
+--------------------------------------
 
 Function Minimization:
 
